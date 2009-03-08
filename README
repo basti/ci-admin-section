@@ -1,0 +1,10 @@
+Simple password protected administration with CodeIgniter and ErkanaAuth
+
+For more information see original tutorial at: http://icebergist.com/posts/simple-password-protected-administration-with-codeigniter
+
+INSTALL
+
+To try out this example you need to:
+
+1. Change base_url setting in system/application/config/config.php
+2. Enter your database details in system/application/config/database.php
